@@ -1,0 +1,84 @@
+C:\Users\byron\OneDrive\No\Escritorio\PROYECTO FINAL PRACTICA SUPERVISADA\SEMANA 06 -10 del 09 de 2022\ProtectSeas Byron Matos\ProtectSeas Byron Matos\bin\Debug\ProtectSeas Byron Matos.exe.config
+C:\Users\byron\OneDrive\No\Escritorio\PROYECTO FINAL PRACTICA SUPERVISADA\SEMANA 06 -10 del 09 de 2022\ProtectSeas Byron Matos\ProtectSeas Byron Matos\bin\Debug\ProtectSeas Byron Matos.exe
+C:\Users\byron\OneDrive\No\Escritorio\PROYECTO FINAL PRACTICA SUPERVISADA\SEMANA 06 -10 del 09 de 2022\ProtectSeas Byron Matos\ProtectSeas Byron Matos\bin\Debug\ProtectSeas Byron Matos.pdb
+C:\Users\byron\OneDrive\No\Escritorio\PROYECTO FINAL PRACTICA SUPERVISADA\SEMANA 06 -10 del 09 de 2022\ProtectSeas Byron Matos\ProtectSeas Byron Matos\bin\Debug\ProtectSeas Byron Matos.xml
+C:\Users\byron\OneDrive\No\Escritorio\PROYECTO FINAL PRACTICA SUPERVISADA\SEMANA 06 -10 del 09 de 2022\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas Byron Matos.vbprojResolveAssemblyReference.cache
+C:\Users\byron\OneDrive\No\Escritorio\PROYECTO FINAL PRACTICA SUPERVISADA\SEMANA 06 -10 del 09 de 2022\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form1.resources
+C:\Users\byron\OneDrive\No\Escritorio\PROYECTO FINAL PRACTICA SUPERVISADA\SEMANA 06 -10 del 09 de 2022\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Resources.resources
+C:\Users\byron\OneDrive\No\Escritorio\PROYECTO FINAL PRACTICA SUPERVISADA\SEMANA 06 -10 del 09 de 2022\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas Byron Matos.vbproj.GenerateResource.Cache
+C:\Users\byron\OneDrive\No\Escritorio\PROYECTO FINAL PRACTICA SUPERVISADA\SEMANA 06 -10 del 09 de 2022\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas Byron Matos.exe
+C:\Users\byron\OneDrive\No\Escritorio\PROYECTO FINAL PRACTICA SUPERVISADA\SEMANA 06 -10 del 09 de 2022\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas Byron Matos.xml
+C:\Users\byron\OneDrive\No\Escritorio\PROYECTO FINAL PRACTICA SUPERVISADA\SEMANA 06 -10 del 09 de 2022\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas Byron Matos.pdb
+C:\Users\byron\OneDrive\No\Escritorio\PROYECTO FINAL PRACTICA SUPERVISADA\SEMANA 06 -10 del 09 de 2022\ProtectSeas Byron Matos\ProtectSeas Byron Matos\bin\Debug\Plan de base de datos Byron Matos.accdb
+C:\Users\byron\OneDrive\No\Escritorio\PROYECTO FINAL PRACTICA SUPERVISADA\SEMANA 06 -10 del 09 de 2022\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form2.resources
+C:\Users\byron\OneDrive\No\Escritorio\PROYECTO FINAL PRACTICA SUPERVISADA\SEMANA 06 -10 del 09 de 2022\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form3.resources
+C:\Users\byron\OneDrive\No\Escritorio\PROYECTO FINAL PRACTICA SUPERVISADA\SEMANA 06 -10 del 09 de 2022\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form4.resources
+C:\Users\byron\OneDrive\No\Escritorio\PROYECTO FINAL PRACTICA SUPERVISADA\SEMANA 06 -10 del 09 de 2022\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form5.resources
+C:\Users\byron\OneDrive\No\Escritorio\PROYECTO FINAL PRACTICA SUPERVISADA\SEMANA 06 -10 del 09 de 2022\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form6.resources
+C:\Users\byron\OneDrive\No\Escritorio\PROYECTO FINAL PRACTICA SUPERVISADA\SEMANA 06 -10 del 09 de 2022\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form7.resources
+C:\Users\byron\OneDrive\No\Escritorio\PROYECTO FINAL PRACTICA SUPERVISADA\SEMANA 06 -10 del 09 de 2022\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form8.resources
+C:\Users\byron\OneDrive\No\Escritorio\PROYECTO FINAL PRACTICA SUPERVISADA\SEMANA 06 -10 del 09 de 2022\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form9.resources
+C:\Users\byron\OneDrive\No\Escritorio\PROYECTO FINAL PRACTICA SUPERVISADA\SEMANA 06 -10 del 09 de 2022\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form10.resources
+C:\Users\byron\OneDrive\No\Escritorio\PROYECTO FINAL PRACTICA SUPERVISADA\SEMANA 06 -10 del 09 de 2022\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form11.resources
+C:\Users\byron\OneDrive\No\Escritorio\PROYECTO FINAL PRACTICA SUPERVISADA\SEMANA 06 -10 del 09 de 2022\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form13.resources
+C:\Users\byron\OneDrive\No\Escritorio\PROYECTO FINAL PRACTICA SUPERVISADA\SEMANA 06 -10 del 09 de 2022\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form14.resources
+C:\Users\byron\OneDrive\No\Escritorio\PROYECTO FINAL PRACTICA SUPERVISADA\SEMANA 06 -10 del 09 de 2022\TESTEOS\ProtectSeas5 Byron Matos\ProtectSeas Byron Matos\ProtectSeas Byron Matos\bin\Debug\ProtectSeas Byron Matos.exe.config
+C:\Users\byron\OneDrive\No\Escritorio\PROYECTO FINAL PRACTICA SUPERVISADA\SEMANA 06 -10 del 09 de 2022\TESTEOS\ProtectSeas5 Byron Matos\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas Byron Matos.exe
+C:\Users\byron\OneDrive\No\Escritorio\PROYECTO FINAL PRACTICA SUPERVISADA\SEMANA 06 -10 del 09 de 2022\TESTEOS\ProtectSeas5 Byron Matos\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas Byron Matos.xml
+C:\Users\byron\OneDrive\No\Escritorio\PROYECTO FINAL PRACTICA SUPERVISADA\SEMANA 06 -10 del 09 de 2022\TESTEOS\ProtectSeas5 Byron Matos\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas Byron Matos.pdb
+C:\Users\byron\OneDrive\No\Escritorio\ProtectSeas5 Byron Matos\ProtectSeas Byron Matos\ProtectSeas Byron Matos\bin\Debug\ProtectSeas Byron Matos.exe.config
+C:\Users\byron\OneDrive\No\Escritorio\ProtectSeas5 Byron Matos\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas Byron Matos.exe
+C:\Users\byron\OneDrive\No\Escritorio\ProtectSeas5 Byron Matos\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas Byron Matos.xml
+C:\Users\byron\OneDrive\No\Escritorio\ProtectSeas5 Byron Matos\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas Byron Matos.pdb
+C:\Users\byron\OneDrive\No\Escritorio\ProtectSeas5 Byron Matos\ProtectSeas Byron Matos\ProtectSeas Byron Matos\bin\Debug\Plan de base de datos Byron Matos.accdb
+C:\Users\byron\OneDrive\No\Escritorio\ProtectSeas5 Byron Matos\ProtectSeas Byron Matos\ProtectSeas Byron Matos\bin\Debug\ProtectSeas Byron Matos.exe
+C:\Users\byron\OneDrive\No\Escritorio\ProtectSeas5 Byron Matos\ProtectSeas Byron Matos\ProtectSeas Byron Matos\bin\Debug\ProtectSeas Byron Matos.pdb
+C:\Users\byron\OneDrive\No\Escritorio\ProtectSeas5 Byron Matos\ProtectSeas Byron Matos\ProtectSeas Byron Matos\bin\Debug\ProtectSeas Byron Matos.xml
+C:\Users\byron\OneDrive\No\Escritorio\ProtectSeas5 Byron Matos\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas Byron Matos.vbprojResolveAssemblyReference.cache
+C:\Users\byron\OneDrive\No\Escritorio\ProtectSeas5 Byron Matos\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form1.resources
+C:\Users\byron\OneDrive\No\Escritorio\ProtectSeas5 Byron Matos\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form10.resources
+C:\Users\byron\OneDrive\No\Escritorio\ProtectSeas5 Byron Matos\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form11.resources
+C:\Users\byron\OneDrive\No\Escritorio\ProtectSeas5 Byron Matos\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form12.resources
+C:\Users\byron\OneDrive\No\Escritorio\ProtectSeas5 Byron Matos\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form13.resources
+C:\Users\byron\OneDrive\No\Escritorio\ProtectSeas5 Byron Matos\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form14.resources
+C:\Users\byron\OneDrive\No\Escritorio\ProtectSeas5 Byron Matos\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form15.resources
+C:\Users\byron\OneDrive\No\Escritorio\ProtectSeas5 Byron Matos\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form16.resources
+C:\Users\byron\OneDrive\No\Escritorio\ProtectSeas5 Byron Matos\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form2.resources
+C:\Users\byron\OneDrive\No\Escritorio\ProtectSeas5 Byron Matos\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form3.resources
+C:\Users\byron\OneDrive\No\Escritorio\ProtectSeas5 Byron Matos\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form4.resources
+C:\Users\byron\OneDrive\No\Escritorio\ProtectSeas5 Byron Matos\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form5.resources
+C:\Users\byron\OneDrive\No\Escritorio\ProtectSeas5 Byron Matos\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form6.resources
+C:\Users\byron\OneDrive\No\Escritorio\ProtectSeas5 Byron Matos\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form7.resources
+C:\Users\byron\OneDrive\No\Escritorio\ProtectSeas5 Byron Matos\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form8.resources
+C:\Users\byron\OneDrive\No\Escritorio\ProtectSeas5 Byron Matos\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form9.resources
+C:\Users\byron\OneDrive\No\Escritorio\ProtectSeas5 Byron Matos\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Resources.resources
+C:\Users\byron\OneDrive\No\Escritorio\ProtectSeas5 Byron Matos\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas Byron Matos.vbproj.GenerateResource.Cache
+C:\Users\byron\Desktop\ProtectSeas Byron Matos\ProtectSeas Byron Matos\bin\Debug\Plan de base de datos Byron Matos.accdb
+C:\Users\byron\Desktop\ProtectSeas Byron Matos\ProtectSeas Byron Matos\bin\Debug\ProtectSeas Byron Matos.exe.config
+C:\Users\byron\Desktop\ProtectSeas Byron Matos\ProtectSeas Byron Matos\bin\Debug\ProtectSeas Byron Matos.exe
+C:\Users\byron\Desktop\ProtectSeas Byron Matos\ProtectSeas Byron Matos\bin\Debug\ProtectSeas Byron Matos.pdb
+C:\Users\byron\Desktop\ProtectSeas Byron Matos\ProtectSeas Byron Matos\bin\Debug\ProtectSeas Byron Matos.xml
+C:\Users\byron\Desktop\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas Byron Matos.vbproj.AssemblyReference.cache
+C:\Users\byron\Desktop\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas Byron Matos.vbproj.SuggestedBindingRedirects.cache
+C:\Users\byron\Desktop\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form1.resources
+C:\Users\byron\Desktop\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form10.resources
+C:\Users\byron\Desktop\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form11.resources
+C:\Users\byron\Desktop\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form12.resources
+C:\Users\byron\Desktop\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form13.resources
+C:\Users\byron\Desktop\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form14.resources
+C:\Users\byron\Desktop\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form15.resources
+C:\Users\byron\Desktop\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form16.resources
+C:\Users\byron\Desktop\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form2.resources
+C:\Users\byron\Desktop\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form3.resources
+C:\Users\byron\Desktop\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form4.resources
+C:\Users\byron\Desktop\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form5.resources
+C:\Users\byron\Desktop\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form6.resources
+C:\Users\byron\Desktop\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form7.resources
+C:\Users\byron\Desktop\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form8.resources
+C:\Users\byron\Desktop\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Form9.resources
+C:\Users\byron\Desktop\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas_Byron_Matos.Resources.resources
+C:\Users\byron\Desktop\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas Byron Matos.vbproj.GenerateResource.cache
+C:\Users\byron\Desktop\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas Byron Matos.vbproj.CoreCompileInputs.cache
+C:\Users\byron\Desktop\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas Byron Matos.exe
+C:\Users\byron\Desktop\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas Byron Matos.xml
+C:\Users\byron\Desktop\ProtectSeas Byron Matos\ProtectSeas Byron Matos\obj\Debug\ProtectSeas Byron Matos.pdb

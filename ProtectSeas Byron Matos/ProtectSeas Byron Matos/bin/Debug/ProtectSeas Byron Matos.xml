@@ -1,0 +1,726 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ProtectSeas Byron Matos
+</name>
+</assembly>
+<members>
+<member name="T:ProtectSeas_Byron_Matos.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:ProtectSeas_Byron_Matos.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:ProtectSeas_Byron_Matos.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:ProtectSeas_Byron_Matos.My.Resources.Resources._51TFZNL2TLL__AC_UX522_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProtectSeas_Byron_Matos.My.Resources.Resources._61msqKmWUvS">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProtectSeas_Byron_Matos.My.Resources.Resources._71Np6DQrSUL__AC_UL1500_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProtectSeas_Byron_Matos.My.Resources.Resources.chat">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProtectSeas_Byron_Matos.My.Resources.Resources.D_NQ_NP_757871_MLM50817349536_072022_W">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProtectSeas_Byron_Matos.My.Resources.Resources.eliminar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProtectSeas_Byron_Matos.My.Resources.Resources.imagen_2022_09_10_155215713">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProtectSeas_Byron_Matos.My.Resources.Resources.insertar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProtectSeas_Byron_Matos.My.Resources.Resources.ONG">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProtectSeas_Byron_Matos.My.Resources.Resources.ONG__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProtectSeas_Byron_Matos.My.Resources.Resources.ONG__2_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProtectSeas_Byron_Matos.My.Resources.Resources.ONG__3_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProtectSeas_Byron_Matos.My.Resources.Resources.ONG__4_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProtectSeas_Byron_Matos.My.Resources.Resources.ONG__5_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProtectSeas_Byron_Matos.My.Resources.Resources.ONG__6_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProtectSeas_Byron_Matos.My.Resources.Resources.ONG__8_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProtectSeas_Byron_Matos.My.Resources.Resources.ONG__9_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProtectSeas_Byron_Matos.My.Resources.Resources.pagina_de_inicio">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProtectSeas_Byron_Matos.My.Resources.Resources.ProtectSeas__1___1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProtectSeas_Byron_Matos.My.Resources.Resources.rBNaFl8LzIqAXTOrAAEIpyNH4i8902">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProtectSeas_Byron_Matos.My.Resources.Resources.sincronizar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProtectSeas_Byron_Matos.My.Resources.Resources.tienda">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProtectSeas_Byron_Matos.My.Resources.Resources.tienda__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet.SOPORTEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet.SOPORTERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet.SOPORTERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSetTableAdapters.SOPORTETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSetTableAdapters.TableAdapterManager.UpdateAll(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet1.DonantesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet1.DonantesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet1.DonantesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet1TableAdapters.DonantesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet1TableAdapters.TableAdapterManager.UpdateAll(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet2.VoluntariosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet2.VoluntariosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet2.VoluntariosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet2TableAdapters.VoluntariosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet2TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet2TableAdapters.TableAdapterManager.UpdateAll(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet2)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet3">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet3.COMENTARIOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet3.COMENTARIOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet3.COMENTARIOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet3TableAdapters.COMENTARIOSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet3TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet3TableAdapters.TableAdapterManager.UpdateAll(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet3)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet4">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet4.DonantesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet4.DonantesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet4.DonantesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet4TableAdapters.DonantesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet4TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet4TableAdapters.TableAdapterManager.UpdateUpdatedRows(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet4,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet4TableAdapters.TableAdapterManager.UpdateInsertedRows(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet4TableAdapters.TableAdapterManager.UpdateDeletedRows(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet4TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet4TableAdapters.TableAdapterManager.UpdateAll(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet4)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet4TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet4TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet5">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet5.ProveedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet5.ProveedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet5.ProveedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet5TableAdapters.ProveedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet5TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet5TableAdapters.TableAdapterManager.UpdateUpdatedRows(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet5,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet5TableAdapters.TableAdapterManager.UpdateInsertedRows(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet5TableAdapters.TableAdapterManager.UpdateDeletedRows(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet5TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet5TableAdapters.TableAdapterManager.UpdateAll(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet5)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet5TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet5TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet6">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet6.ProductosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet6.ProductosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet6.ProductosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet6TableAdapters.ProductosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet6TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet6TableAdapters.TableAdapterManager.UpdateUpdatedRows(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet6,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet6TableAdapters.TableAdapterManager.UpdateInsertedRows(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet6,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet6TableAdapters.TableAdapterManager.UpdateDeletedRows(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet6,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet6TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet6TableAdapters.TableAdapterManager.UpdateAll(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet6)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet6TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet6TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet7">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet7.ClientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet7.ClientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet7.ClientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet7TableAdapters.ClientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet7TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet7TableAdapters.TableAdapterManager.UpdateUpdatedRows(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet7,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet7TableAdapters.TableAdapterManager.UpdateInsertedRows(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet7,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet7TableAdapters.TableAdapterManager.UpdateDeletedRows(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet7,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet7TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet7TableAdapters.TableAdapterManager.UpdateAll(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet7)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet7TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet7TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet8">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet8.VoluntariosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet8.VoluntariosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet8.VoluntariosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet8TableAdapters.VoluntariosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet8TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet8TableAdapters.TableAdapterManager.UpdateUpdatedRows(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet8,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet8TableAdapters.TableAdapterManager.UpdateInsertedRows(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet8,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet8TableAdapters.TableAdapterManager.UpdateDeletedRows(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet8,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet8TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet8TableAdapters.TableAdapterManager.UpdateAll(ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet8)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet8TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ProtectSeas_Byron_Matos.Plan_de_base_de_datos_Byron_MatosDataSet8TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
